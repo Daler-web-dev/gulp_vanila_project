@@ -1,5 +1,5 @@
 # gulp_vanila_project
-##This is a default project for using a gulp every setting ready to work
+## This is a default project for using a gulp every setting ready to work
 ========================================================================
 
 1. You have to just clone this repository 

@@ -9,8 +9,8 @@
 5. If everythink is ok **Just click the star on this repo** 
 
 
-# Telegram me
+# Telegram
 [@ravshanov021](https://t.me/ravshanov021)
 
-# Instagram me
+# Instagram
 [daler.sharifkulov](https://www.instagram.com/daler.sharifkulov/)

@@ -1,0 +1,41 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: red;
+}
+
+header {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c4c4c4;
+
+    .left {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    }
+    .right {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        .round {
+            width: 38px;
+            height: 38px;
+            background-color: gray;
+            &:hover {
+                background-color: orange;
+            }   
+        }
+    }
+}
